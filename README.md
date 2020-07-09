@@ -1,2 +1,2 @@
-# ttwm..github.io
+# ttwm.github.io
 blog
